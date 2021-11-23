@@ -1,0 +1,14 @@
+C:\Users\Xervicompu\source\repos\APORTE_PARCIAL1\APORTE_PARCIAL1\bin\Debug\netcoreapp3.1\APORTE_PARCIAL1.exe
+C:\Users\Xervicompu\source\repos\APORTE_PARCIAL1\APORTE_PARCIAL1\bin\Debug\netcoreapp3.1\APORTE_PARCIAL1.deps.json
+C:\Users\Xervicompu\source\repos\APORTE_PARCIAL1\APORTE_PARCIAL1\bin\Debug\netcoreapp3.1\APORTE_PARCIAL1.runtimeconfig.json
+C:\Users\Xervicompu\source\repos\APORTE_PARCIAL1\APORTE_PARCIAL1\bin\Debug\netcoreapp3.1\APORTE_PARCIAL1.runtimeconfig.dev.json
+C:\Users\Xervicompu\source\repos\APORTE_PARCIAL1\APORTE_PARCIAL1\bin\Debug\netcoreapp3.1\APORTE_PARCIAL1.dll
+C:\Users\Xervicompu\source\repos\APORTE_PARCIAL1\APORTE_PARCIAL1\bin\Debug\netcoreapp3.1\APORTE_PARCIAL1.pdb
+C:\Users\Xervicompu\source\repos\APORTE_PARCIAL1\APORTE_PARCIAL1\obj\Debug\netcoreapp3.1\APORTE_PARCIAL1.csproj.AssemblyReference.cache
+C:\Users\Xervicompu\source\repos\APORTE_PARCIAL1\APORTE_PARCIAL1\obj\Debug\netcoreapp3.1\APORTE_PARCIAL1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Xervicompu\source\repos\APORTE_PARCIAL1\APORTE_PARCIAL1\obj\Debug\netcoreapp3.1\APORTE_PARCIAL1.AssemblyInfoInputs.cache
+C:\Users\Xervicompu\source\repos\APORTE_PARCIAL1\APORTE_PARCIAL1\obj\Debug\netcoreapp3.1\APORTE_PARCIAL1.AssemblyInfo.cs
+C:\Users\Xervicompu\source\repos\APORTE_PARCIAL1\APORTE_PARCIAL1\obj\Debug\netcoreapp3.1\APORTE_PARCIAL1.csproj.CoreCompileInputs.cache
+C:\Users\Xervicompu\source\repos\APORTE_PARCIAL1\APORTE_PARCIAL1\obj\Debug\netcoreapp3.1\APORTE_PARCIAL1.dll
+C:\Users\Xervicompu\source\repos\APORTE_PARCIAL1\APORTE_PARCIAL1\obj\Debug\netcoreapp3.1\APORTE_PARCIAL1.pdb
+C:\Users\Xervicompu\source\repos\APORTE_PARCIAL1\APORTE_PARCIAL1\obj\Debug\netcoreapp3.1\APORTE_PARCIAL1.genruntimeconfig.cache

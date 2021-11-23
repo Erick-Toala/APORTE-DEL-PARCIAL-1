@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Xervicompu\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Xervicompu\\.nuget\\packages"
+    ]
+  }
+}

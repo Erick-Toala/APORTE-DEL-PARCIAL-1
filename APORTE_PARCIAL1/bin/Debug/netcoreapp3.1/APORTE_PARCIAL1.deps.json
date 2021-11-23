@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "APORTE_PARCIAL1/1.0.0": {
+        "runtime": {
+          "APORTE_PARCIAL1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "APORTE_PARCIAL1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

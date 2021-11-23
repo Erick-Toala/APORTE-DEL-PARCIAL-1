@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="APORTE_PARCIAL1.cine">
+    <Position X="4.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>cine.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="APORTE_PARCIAL1.sala">
+    <Position X="5.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAIAAAgAAgAAAAAAAAAAAAAAAAAAAAAAgIAAAAAAA=</HashCode>
+      <FileName>sala.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="APORTE_PARCIAL1.cliente">
+    <Position X="7.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAgAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAEAA=</HashCode>
+      <FileName>cliente.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="APORTE_PARCIAL1.comida">
+    <Position X="3.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAA=</HashCode>
+      <FileName>comida.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="APORTE_PARCIAL1.peliculas">
+    <Position X="1.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgAAgAAAAAAAAAAAACAAAAAAAAAAAAgAAAAA=</HashCode>
+      <FileName>peliculas.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
